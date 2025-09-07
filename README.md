@@ -16,6 +16,9 @@
   <a href="https://github.com/bairisai">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="assets/Krishnasai_Bairi_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=AdobeAcrobat&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -41,7 +44,7 @@
 | Project | Tech Stack | Preview |
 |---------|------------|---------|
 | **Smart Email Assistant** | Spring Boot, React, Gemini API | ![Smart Email](images/SmartEmailAssistant.png) |
-| **Food Delivery App** | Spring Boot, React, Razorpay | ![Smart Email](images/online-food-delivery-application-preview.png) |
+| **Food Delivery App** | Spring Boot, React, Razorpay | ![Food Delivery](images/online-food-delivery-application-preview.png) |
 
 ---
 
