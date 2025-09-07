@@ -41,7 +41,7 @@
 | Project | Tech Stack | Preview |
 |---------|------------|---------|
 | **Smart Email Assistant** | Spring Boot, React, Gemini API | ![Smart Email](images/SmartEmailAssistant.png) |
-| **Food Delivery App** | Spring Boot, React, Razorpay | <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="250"/> |
+| **Food Delivery App** | Spring Boot, React, Razorpay | ![Smart Email](images/online-food-delivery-application-preview.png) |
 
 ---
 
