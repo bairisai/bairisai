@@ -13,9 +13,6 @@
   <a href="mailto:krishnasaibairi56140@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/bairisai">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="assets/krishnasaibairi-resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=AdobeAcrobat&logoColor=white"/>
   </a>
