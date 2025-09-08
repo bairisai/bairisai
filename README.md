@@ -13,6 +13,9 @@
   <a href="mailto:krishnasaibairi56140@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
+  <a href="https://takeuforward.org/plus/profile/krishnasaibairi" target="_blank">
+      <img src="https://takeuforward.org/static/media/TufDarkCircleLogo.876d63ea7e9c6b8336e9.png" alt="TUF+ Profile" style="width: 100px; height: 30px;"/>
+  </a>
   <a href="assets/krishnasaibairi-resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=AdobeAcrobat&logoColor=white"/>
   </a>
